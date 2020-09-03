@@ -1,0 +1,6 @@
+<div class="full-width-panel" style="height:100%; width: 100%;">
+<ag-grid-angular #agGrid style="width: 100%; height: 100%;" id="myGrid"
+class="ag-theme-balham"
+  [columnDefs]="columnDefs" [defaultColDef]="defaultColDef" [sideBar]="sideBar" [rowData]="rowData"
+  [localeText]="localeText" (gridReady)="onGridReady($event)"></ag-grid-angular>
+</div>

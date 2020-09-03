@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+.tags-badge{
+   padding: 6px;
+    font-weight: 500;
+    font-size: 12px;
+    margin: 6px;
+    display: block;
+    float: left;
+}
+.ag-group-value{
+    font-weight:600;
+}

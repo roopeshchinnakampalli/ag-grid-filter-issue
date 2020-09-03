@@ -1,0 +1,703 @@
+[
+   {
+      "itemId": 100,
+      "itemName": "Project  1",
+      "employmentType": "Contract",
+      "startDate": "",
+      "underlings": [
+         {
+            "itemId": 101,
+            "itemName": "Component 1",
+            "cost":"100",
+            "underlings": [
+               {
+                  "itemId": 102,
+                  "itemName": "Education",
+                  "underlings": [
+                     {
+                        "itemId": 103,
+                        "itemName": "Employment / TVET",
+                        "tags": [
+                           { "tag" : "Education-to-work Transition"},
+                           {
+                              "tag": "Entrepreneurship Training"
+                           },
+                           {
+                              "tag": "Internship/Apprenticeship Programs"
+                           },
+                           {
+                              "tag": "Linking education with the Private Sector"
+                           }
+                        ]
+                     },
+                     {
+                        "itemId": 104,
+                        "itemName": "Equity and Inlusion",
+                           "tags": [
+                              {
+                                 "tag": "Nonformal/ Formal Equivalency"
+                              },
+                              {
+                                 "tag": "Occupational standards/ Certification of Vocational Learning"
+                              },
+                              {
+                                 "tag": "Education-to-work Transition"
+                              },
+                              {
+                                 "tag": "Entrepreneurship Training"
+                              }
+                           ]
+                     }
+                  ]
+               },
+               {
+                  "itemId": 102,
+                  "itemName": "Water",
+                  "underlings": [
+                     {
+                        "itemId": 103,
+                        "itemName": "Employment / TVET",
+                        "tags": [
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           },
+                           {
+                              "tag": "Internship/Apprenticeship Programs"
+                           },
+                           {
+                              "tag": "Linking education with the Private Sector"
+                           }
+                        ]
+                     },
+                     {
+                        "itemId": 104,
+                        "itemName": "Equity and Inlusion",
+                        "tags": [
+                           {
+                              "tag": "Nonformal/ Formal Equivalency"
+                           },
+                           {
+                              "tag": "Occupational standards/ Certification of Vocational Learning"
+                           },
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "itemId": 101,
+            "itemName": "Component 2",
+            "cost": "100",
+            "underlings": [
+               {
+                  "itemId": 102,
+                  "itemName": "Education",
+                  "underlings": [
+                     {
+                        "itemId": 103,
+                        "itemName": "Employment / TVET",
+                        "tags": [
+                           {
+                              "tag": "Education"
+                           },
+                           {
+                              "tag": "Training"
+                           },
+                           {
+                              "tag": "Programs"
+                           },
+                           {
+                              "tag": "Private Sector"
+                           }
+                        ]
+                     },
+                     {
+                        "itemId": 104,
+                        "itemName": "Equity and Inlusion",
+                        "tags": [
+                           {
+                              "tag": "Nonformal/ Formal Equivalency"
+                           },
+                           {
+                              "tag": "Occupational standards/ Certification of Vocational Learning"
+                           },
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "itemId": 102,
+                  "itemName": "Water",
+                  "underlings": [
+                     {
+                        "itemId": 103,
+                        "itemName": "Employment / TVET",
+                        "tags": [
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           },
+                           {
+                              "tag": "Internship/Apprenticeship Programs"
+                           },
+                           {
+                              "tag": "Linking education with the Private Sector"
+                           }
+                        ]
+                     },
+                     {
+                        "itemId": 104,
+                        "itemName": "Equity and Inlusion",
+                        "tags": [
+                           {
+                              "tag": "Nonformal/ Formal Equivalency"
+                           },
+                           {
+                              "tag": "Occupational standards/ Certification of Vocational Learning"
+                           },
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "itemId": 200,
+      "itemName": "Project  2",
+      "employmentType": "Contract",
+      "startDate": "",
+      "underlings": [
+         {
+            "itemId": 101,
+            "itemName": "Component 1",
+            "cost": "100",
+            "underlings": [
+               {
+                  "itemId": 102,
+                  "itemName": "Education",
+                  "underlings": [
+                     {
+                        "itemId": 103,
+                        "itemName": "Employment / TVET",
+                        "tags": [
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           },
+                           {
+                              "tag": "Internship/Apprenticeship Programs"
+                           },
+                           {
+                              "tag": "Linking education with the Private Sector"
+                           }
+                        ]
+                     },
+                     {
+                        "itemId": 104,
+                        "itemName": "Equity and Inlusion",
+                        "tags": [
+                           {
+                              "tag": "Nonformal/ Formal Equivalency"
+                           },
+                           {
+                              "tag": "Occupational standards/ Certification of Vocational Learning"
+                           },
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "itemId": 200,
+      "itemName": "Project 3",
+      "employmentType": "Contract",
+      "startDate": "",
+      "underlings": [
+         {
+            "itemId": 101,
+            "itemName": "Component 1",
+            "cost": "100",
+            "underlings": [
+               {
+                  "itemId": 102,
+                  "itemName": "Education",
+                  "underlings": [
+                     {
+                        "itemId": 103,
+                        "itemName": "Employment / TVET",
+                        "tags": [
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           },
+                           {
+                              "tag": "Internship/Apprenticeship Programs"
+                           },
+                           {
+                              "tag": "Linking education with the Private Sector"
+                           }
+                        ]
+                     },
+                     {
+                        "itemId": 104,
+                        "itemName": "Equity and Inlusion",
+                        "tags": [
+                           {
+                              "tag": "Nonformal/ Formal Equivalency"
+                           },
+                           {
+                              "tag": "Occupational standards/ Certification of Vocational Learning"
+                           },
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "itemId": 200,
+      "itemName": "Project  4",
+      "employmentType": "Contract",
+      "startDate": "",
+      "underlings": [
+         {
+            "itemId": 101,
+            "itemName": "Component 1",
+            "cost": "100",
+            "underlings": [
+               {
+                  "itemId": 102,
+                  "itemName": "Education",
+                  "underlings": [
+                     {
+                        "itemId": 103,
+                        "itemName": "Employment / TVET",
+                        "tags": [
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           },
+                           {
+                              "tag": "Internship/Apprenticeship Programs"
+                           },
+                           {
+                              "tag": "Linking education with the Private Sector"
+                           }
+                        ]
+                     },
+                     {
+                        "itemId": 104,
+                        "itemName": "Equity and Inlusion",
+                        "tags": [
+                           {
+                              "tag": "Nonformal/ Formal Equivalency"
+                           },
+                           {
+                              "tag": "Occupational standards/ Certification of Vocational Learning"
+                           },
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "itemId": 200,
+      "itemName": "Project 5",
+      "employmentType": "Contract",
+      "startDate": "",
+      "underlings": [
+         {
+            "itemId": 101,
+            "itemName": "Component 1",
+            "cost": "100",
+            "underlings": [
+               {
+                  "itemId": 102,
+                  "itemName": "Education",
+                  "underlings": [
+                     {
+                        "itemId": 103,
+                        "itemName": "Employment / TVET",
+                        "tags": [
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           },
+                           {
+                              "tag": "Internship/Apprenticeship Programs"
+                           },
+                           {
+                              "tag": "Linking education with the Private Sector"
+                           }
+                        ]
+                     },
+                     {
+                        "itemId": 104,
+                        "itemName": "Equity and Inlusion",
+                        "tags": [
+                           {
+                              "tag": "Nonformal/ Formal Equivalency"
+                           },
+                           {
+                              "tag": "Occupational standards/ Certification of Vocational Learning"
+                           },
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "itemId": 200,
+      "itemName": "Project 6",
+      "employmentType": "Contract",
+      "startDate": "",
+      "underlings": [
+         {
+            "itemId": 101,
+            "itemName": "Component 1",
+            "cost": "100",
+            "underlings": [
+               {
+                  "itemId": 102,
+                  "itemName": "Education",
+                  "underlings": [
+                     {
+                        "itemId": 103,
+                        "itemName": "Employment / TVET",
+                        "tags": [
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           },
+                           {
+                              "tag": "Internship/Apprenticeship Programs"
+                           },
+                           {
+                              "tag": "Linking education with the Private Sector"
+                           }
+                        ]
+                     },
+                     {
+                        "itemId": 104,
+                        "itemName": "Equity and Inlusion",
+                        "tags": [
+                           {
+                              "tag": "Nonformal/ Formal Equivalency"
+                           },
+                           {
+                              "tag": "Occupational standards/ Certification of Vocational Learning"
+                           },
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "itemId": 200,
+      "itemName": "Project 7",
+      "employmentType": "Contract",
+      "startDate": "",
+      "underlings": [
+         {
+            "itemId": 101,
+            "itemName": "Component 1",
+            "cost": "100",
+            "underlings": [
+               {
+                  "itemId": 102,
+                  "itemName": "Education",
+                  "underlings": [
+                     {
+                        "itemId": 103,
+                        "itemName": "Employment / TVET",
+                        "tags": [
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           },
+                           {
+                              "tag": "Internship/Apprenticeship Programs"
+                           },
+                           {
+                              "tag": "Linking education with the Private Sector"
+                           }
+                        ]
+                     },
+                     {
+                        "itemId": 104,
+                        "itemName": "Equity and Inlusion",
+                        "tags": [
+                           {
+                              "tag": "Nonformal/ Formal Equivalency"
+                           },
+                           {
+                              "tag": "Occupational standards/ Certification of Vocational Learning"
+                           },
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "itemId": 200,
+      "itemName": "Project 8",
+      "employmentType": "Contract",
+      "startDate": "",
+      "underlings": [
+         {
+            "itemId": 101,
+            "itemName": "Component 1",
+            "cost": "100",
+            "underlings": [
+               {
+                  "itemId": 102,
+                  "itemName": "Education",
+                  "underlings": [
+                     {
+                        "itemId": 103,
+                        "itemName": "Employment / TVET",
+                        "tags": [
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           },
+                           {
+                              "tag": "Internship/Apprenticeship Programs"
+                           },
+                           {
+                              "tag": "Linking education with the Private Sector"
+                           }
+                        ]
+                     },
+                     {
+                        "itemId": 104,
+                        "itemName": "Equity and Inlusion",
+                        "tags": [
+                           {
+                              "tag": "Nonformal/ Formal Equivalency"
+                           },
+                           {
+                              "tag": "Occupational standards/ Certification of Vocational Learning"
+                           },
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "itemId": 200,
+      "itemName": "Project 9",
+      "employmentType": "Contract",
+      "startDate": "",
+      "underlings": [
+         {
+            "itemId": 101,
+            "itemName": "Component 1",
+            "cost": "100",
+            "underlings": [
+               {
+                  "itemId": 102,
+                  "itemName": "Education",
+                  "underlings": [
+                     {
+                        "itemId": 103,
+                        "itemName": "Employment / TVET",
+                        "tags": [
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           },
+                           {
+                              "tag": "Internship/Apprenticeship Programs"
+                           },
+                           {
+                              "tag": "Linking education with the Private Sector"
+                           }
+                        ]
+                     },
+                     {
+                        "itemId": 104,
+                        "itemName": "Equity and Inlusion",
+                        "tags": [
+                           {
+                              "tag": "Nonformal/ Formal Equivalency"
+                           },
+                           {
+                              "tag": "Occupational standards/ Certification of Vocational Learning"
+                           },
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "itemId": 200,
+      "itemName": "Project 10",
+      "employmentType": "Contract",
+      "startDate": "",
+      "underlings": [
+         {
+            "itemId": 101,
+            "itemName": "Component 1",
+            "cost": "100",
+            "underlings": [
+               {
+                  "itemId": 102,
+                  "itemName": "Education",
+                  "underlings": [
+                     {
+                        "itemId": 103,
+                        "itemName": "Employment / TVET",
+                        "tags": [
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           },
+                           {
+                              "tag": "Internship/Apprenticeship Programs"
+                           },
+                           {
+                              "tag": "Linking education with the Private Sector"
+                           }
+                        ]
+                     },
+                     {
+                        "itemId": 104,
+                        "itemName": "Equity and Inlusion",
+                        "tags": [
+                           {
+                              "tag": "Nonformal/ Formal Equivalency"
+                           },
+                           {
+                              "tag": "Occupational standards/ Certification of Vocational Learning"
+                           },
+                           {
+                              "tag": "Education-to-work Transition"
+                           },
+                           {
+                              "tag": "Entrepreneurship Training"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   }
+]
